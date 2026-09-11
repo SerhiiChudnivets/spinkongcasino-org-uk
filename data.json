@@ -5,7 +5,7 @@
   "url": "spinkongcasino.org.uk",
   "template": "tupchiy",
   "language_code": "en",
-  "allow_indexing": true,
+  "allow_indexing": false,
   "redirect_404s_to_homepage": false,
   "use_www_version": false,
   "breadcrumbs": true,
@@ -385,10 +385,10 @@
       "question": "Can I play games for free before betting real money?"
     }
   ],
-  "_generated_at": "2026-09-11T10:51:38.571Z",
+  "_generated_at": "2026-09-11T12:08:59.884Z",
   "_version": "1.0.0",
   "html_head_alt": "slotsdynamite baner",
   "content_alt": "slotdynamite register",
-  "_last_deploy": "2026-09-11T10:51:41.689Z",
-  "_deploy_trigger": "tvs8ij"
+  "_last_deploy": "2026-09-11T12:09:00.545Z",
+  "_deploy_trigger": "1wclhn"
 }
