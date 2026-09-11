@@ -163,13 +163,13 @@
   "cta_text": "JUMP IN",
   "tagline": "400% BONUS UP TO £1000+ 250 FS",
   "features_list": null,
-  "footer_text": "© 2026. SpinKong Casino . All rights reserved",
+  "footer_text": "© 2026. SpinKong Casino. All rights reserved",
   "popup_text": "400% BONUS UP TO £1000+ 250 FS",
   "faq_title": "FAQ",
   "login_text": "Sign In",
   "register_text": "Sign Up",
-  "slots_title": "Top Slots at Slots Dynamite Casino",
-  "bonus_title": "Slots Dynamite Casino: Welcome Package, Reload Rewards",
+  "slots_title": "Gaming Selection at SpinKong",
+  "bonus_title": "Bonuses and Promotional Offers",
   "get_bonus_btn_text": "JUMP IN",
   "redirect_link": "/play/",
   "home_name": "SpinKong Casino",
@@ -189,31 +189,37 @@
   "header_menu": [
     {
       "link": "/play/",
-      "label": "Login",
+      "label": "Promotions",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "App",
+      "label": "Live Casino",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Withdrawal",
+      "label": "Slot Games",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Bonus",
+      "label": "Table games",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Slots",
+      "label": "Crash Games",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Sports",
       "submenu": [],
       "openInNewTab": false
     }
@@ -227,25 +233,43 @@
     },
     {
       "link": "/play/",
+      "label": "Terms and Conditions",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
       "label": "Privacy Policy",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Cookies Policy",
+      "label": "Bonus Rules",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Terms & Conditions",
+      "label": "Payments",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Contacts",
+      "label": "Support",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "FAQ",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Contact",
       "submenu": [],
       "openInNewTab": false
     }
@@ -290,6 +314,16 @@
       "link": "/play/",
       "image": "/uploads/292521eb44c05ec0fdfefa6dbaa3dd0c.svg",
       "image_alt": "apple pay"
+    },
+    {
+      "link": "https://www.dmca.com/",
+      "image": "/uploads/57a93b660ed5e455519e3ee7cf0051d9.webp",
+      "image_alt": "dmca protected"
+    },
+    {
+      "link": "https://www.egba.eu/",
+      "image": "/uploads/2ed39af5a3f8cd3f81a0ff687a7979e5.svg",
+      "image_alt": "egba"
     }
   ],
   "Slots": [
@@ -375,8 +409,8 @@
       "question": "What should I do if I forget my login password?"
     }
   ],
-  "_generated_at": "2026-09-11T15:15:06.455Z",
+  "_generated_at": "2026-09-11T21:37:34.015Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-09-11T15:15:07.113Z",
-  "_deploy_trigger": "bm8fgs"
+  "_last_deploy": "2026-09-11T21:37:34.616Z",
+  "_deploy_trigger": "w6clds"
 }
