@@ -178,13 +178,13 @@
   "subdomains": null,
   "accent_color": "#e8e8e8",
   "main_background": "#242424",
-  "secondary_background": "#ffffff",
-  "button_background": "#e8e8e8",
-  "button_text_color": "#FFFFFF",
+  "secondary_background": "#17161A",
+  "button_background": "#EED8A1",
+  "button_text_color": "#2E2A27",
   "text_color": "#ffffff",
   "color_highlight_text": "#e8e8e8",
   "color_main_btn_text": "#ffffff",
-  "cta_background": "#ffffff",
+  "cta_background": "#EED8A1",
   "logo": {
     "url": "/uploads/367154af0ffd16be33ce45888b36fbda.webp"
   },
@@ -417,8 +417,8 @@
       "question": "What should I do if I forget my login password?"
     }
   ],
-  "_generated_at": "2026-09-14T08:50:38.734Z",
+  "_generated_at": "2026-09-14T08:58:31.463Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-09-14T08:50:39.394Z",
-  "_deploy_trigger": "j6js9"
+  "_last_deploy": "2026-09-14T08:58:32.057Z",
+  "_deploy_trigger": "yj7p0e"
 }
