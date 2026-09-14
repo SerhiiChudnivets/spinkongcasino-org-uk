@@ -23,7 +23,7 @@
       "heroTitle": "SpinKong Casino – Premier Online Casino for UK Players",
       "heroSubtitle": "START BIG, SPIN BIGGER",
       "heroBadge": "GB Casino",
-      "ctaText": "JUMP IN",
+      "ctaText": "Get Bonus",
       "tagline": "400% BONUS UP TO £1000+ 250 FS",
       "heroImage": "/uploads/3e4b1758c9d25211c45e48a58cb9b1e8.webp",
       "template": "homepage",
@@ -108,7 +108,7 @@
       "html_head": "<meta name=\"google-site-verification\" content=\"JzUnHxTjV3hRKVuPaB5DpyGnzdbV6KhFBYYC6blFIkc\" />\n<link rel=\"canonical\" href=\"https://spinkongcasino.org.uk/en-gb/\">\n<link rel=\"alternate\" href=\"https://spinkongcasino.org.uk/\" hreflang=\"en\">\n<link rel=\"alternate\" href=\"https://spinkongcasino.org.uk/en-gb/\" hreflang=\"en-GB\">\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"SpinKong Casino Online: Top Slots & Fast Instant Payouts\">\n<meta property=\"og:description\" content=\"Discover massive jackpots and licensed games at SpinKong Casino! Sign up today to spin original Megaways, join live dealer tables, and claim generous bonuses.\">\n<meta property=\"og:url\" content=\"spinkongcasino.org.uk/\">\n<meta property=\"og:site_name\" content= \"SpinKong Casino\">\n",
       "faq_title": "Frequently Asked Questions",
       "hero_badge": "GB Casino",
-      "cta_text": "JUMP IN"
+      "cta_text": "Get Bonus"
     }
   ],
   "faq_schema": {
@@ -162,7 +162,7 @@
   "hero_title": "SpinKong Casino – Premier Online Casino for UK Players",
   "hero_subtitle": "START BIG, SPIN BIGGER",
   "hero_badge": "GB Casino",
-  "cta_text": "JUMP IN",
+  "cta_text": "Get Bonus",
   "tagline": "400% BONUS UP TO £1000+ 250 FS",
   "features_list": null,
   "footer_text": "© 2026. SpinKong Casino. All rights reserved",
@@ -172,7 +172,7 @@
   "register_text": "Sign Up",
   "slots_title": "Gaming Selection at SpinKong",
   "bonus_title": "Bonuses and Promotional Offers",
-  "get_bonus_btn_text": "JUMP IN",
+  "get_bonus_btn_text": "Get Bonus",
   "redirect_link": "/play/",
   "home_name": "SpinKong Casino",
   "subdomains": null,
@@ -324,7 +324,7 @@
       "image_alt": "apple pay"
     },
     {
-      "link": "https://www.dmca.com/",
+      "link": "/play/",
       "image": "/uploads/57a93b660ed5e455519e3ee7cf0051d9.webp",
       "image_alt": "dmca protected"
     },
@@ -417,8 +417,8 @@
       "question": "What should I do if I forget my login password?"
     }
   ],
-  "_generated_at": "2026-09-14T09:12:19.027Z",
+  "_generated_at": "2026-09-14T09:57:08.598Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-09-14T09:12:19.598Z",
-  "_deploy_trigger": "ne7jcb"
+  "_last_deploy": "2026-09-14T09:57:09.195Z",
+  "_deploy_trigger": "zuvy7e"
 }
