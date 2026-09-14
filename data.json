@@ -312,11 +312,6 @@
       "link": "/play/",
       "image": "/uploads/2767b5abec611eeaecc8af4ad65c2a43.svg",
       "image_alt": "btc"
-    },
-    {
-      "link": "/play/",
-      "image": "/uploads/57a93b660ed5e455519e3ee7cf0051d9.webp",
-      "image_alt": "dmca protected"
     }
   ],
   "Slots": [
@@ -402,8 +397,8 @@
       "question": "What should I do if I forget my login password?"
     }
   ],
-  "_generated_at": "2026-09-14T11:04:19.210Z",
+  "_generated_at": "2026-09-14T11:09:23.697Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-09-14T11:04:19.841Z",
-  "_deploy_trigger": "kzckv3"
+  "_last_deploy": "2026-09-14T11:09:24.279Z",
+  "_deploy_trigger": "c2gl8b"
 }
