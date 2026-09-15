@@ -5,7 +5,7 @@
   "url": "spinkongcasino.org.uk",
   "template": "tupchiy",
   "language_code": "en",
-  "allow_indexing": false,
+  "allow_indexing": true,
   "redirect_404s_to_homepage": true,
   "use_www_version": false,
   "breadcrumbs": true,
@@ -397,8 +397,8 @@
       "question": "What should I do if I forget my login password?"
     }
   ],
-  "_generated_at": "2026-09-15T14:48:15.900Z",
+  "_generated_at": "2026-09-15T15:28:21.767Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-09-15T14:48:16.501Z",
-  "_deploy_trigger": "d0q47"
+  "_last_deploy": "2026-09-15T15:28:22.339Z",
+  "_deploy_trigger": "zdpfc"
 }
